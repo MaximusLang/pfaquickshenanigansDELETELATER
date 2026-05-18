@@ -1,6 +1,6 @@
 import json, re
 
-FILE = "pfa_scoring_skeleton(1).json"
+FILE = "pfa_scoring_skeleton (1).json"
 
 with open(FILE) as f:
     raw = f.read()
